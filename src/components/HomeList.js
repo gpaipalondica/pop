@@ -34,7 +34,7 @@ export const HomeList = [
         id: 6,
         projTitle: 'Facebook Mobile',
         projDescr: 'A replica of Facebook Mobile app',
-        gitH: 'https://github.com/gpaipalondica/Movie-Mania'
+        gitH: 'https://github.com/gpaipalondica/FacebookMobile'
     },
     
 ]
